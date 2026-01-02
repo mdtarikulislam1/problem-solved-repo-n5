@@ -67,4 +67,5 @@ function rowSumOddNumbers(n) {
 
 console.log(rowSumOddNumbers(2))
 ```
-###
+### 5. Find First Duplicate Value
+```javascript
